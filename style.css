@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image:url("bg2.jpg");
+}
+.talk{
+      color:black;
+      background-color: rgb(40, 180, 180);
+      border-radius: 14px;
+      border-color:none;
+      margin-top: 100px;
+      margin-left:630px;
+      align-items: center;
+      width:90px;
+      height:38px;
+}
+.text{
+    align-items: center;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 200px;
+}
+
+.content{
+    text-align: center;
+    color:Green;
+
+}
